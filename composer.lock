@@ -1600,16 +1600,16 @@
         },
         {
             "name": "masmaleki/calculator",
-            "version": "1.1",
+            "version": "1.2.1",
             "source": {
                 "type": "git",
                 "url": "https://github.com/masmaleki/calculator.git",
-                "reference": "6ffb34bd757e194984404f5b4cb451d6996e0fda"
+                "reference": "2fb130ff218a59897ced9eb03cedcb9fa2893d3f"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/masmaleki/calculator/zipball/6ffb34bd757e194984404f5b4cb451d6996e0fda",
-                "reference": "6ffb34bd757e194984404f5b4cb451d6996e0fda",
+                "url": "https://api.github.com/repos/masmaleki/calculator/zipball/2fb130ff218a59897ced9eb03cedcb9fa2893d3f",
+                "reference": "2fb130ff218a59897ced9eb03cedcb9fa2893d3f",
                 "shasum": ""
             },
             "require": {
@@ -1657,9 +1657,9 @@
             ],
             "support": {
                 "issues": "https://github.com/masmaleki/calculator/issues",
-                "source": "https://github.com/masmaleki/calculator/tree/1.1"
+                "source": "https://github.com/masmaleki/calculator/tree/1.2.1"
             },
-            "time": "2022-07-11T06:32:26+00:00"
+            "time": "2022-07-11T17:44:55+00:00"
         },
         {
             "name": "monolog/monolog",
